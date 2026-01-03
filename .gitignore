@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary / lock files
+~$*.pptx
+
+# Optional: comment this OUT if Flatiron wants data included
+# data/*.csv
+
