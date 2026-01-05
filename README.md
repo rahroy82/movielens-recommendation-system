@@ -64,6 +64,8 @@ Also demonstrated:
 ---
 
 ## Repository Structure
+
+---
 Repository Structure
 ├── notebooks/          # Jupyter notebook analysis
 ├── data/               # MovieLens CSV files
