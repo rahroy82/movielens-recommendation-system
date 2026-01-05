@@ -64,8 +64,8 @@ Also demonstrated:
 ---
 
 ## Repository Structure
----text
-Repository Structure
+
+```text
 ├── notebooks/          # Jupyter notebook analysis
 ├── data/               # MovieLens CSV files
 ├── reports/
@@ -73,9 +73,6 @@ Repository Structure
 ├── presentation/       # Non-technical presentation
 ├── requirements.txt    # Python dependencies
 └── README.md
-
-
----
 
 ## Future Improvements
 - Ranking metrics (Precision@K, Recall@K, NDCG@K)
