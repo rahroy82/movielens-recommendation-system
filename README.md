@@ -19,7 +19,7 @@ The system addresses **choice overload** and demonstrates how collaborative filt
 ---
 
 ## Data
-- **Dataset:** MovieLens (ml-latest-small)
+- **Dataset:** [MovieLens](https://files.grouplens.org/datasets/movielens/ml-latest-small.zip ) (ml-latest-small)
 - **Users:** 610  
 - **Movies:** 9,742  
 - **Ratings:** 100,836 (0.5–5.0 scale)
