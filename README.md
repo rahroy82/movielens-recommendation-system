@@ -64,12 +64,15 @@ Also demonstrated:
 ---
 
 ## Repository Structure
-├── notebooks/ # Jupyter notebook analysis
-├── data/ # MovieLens CSV files
-├── reports/figures/ # Visualizations
-├── presentation/ # Non-technical presentation
-├── requirements.txt # Python dependencies
+Repository Structure
+├── notebooks/          # Jupyter notebook analysis
+├── data/               # MovieLens CSV files
+├── reports/
+│   └── figures/        # Visualizations
+├── presentation/       # Non-technical presentation
+├── requirements.txt    # Python dependencies
 └── README.md
+
 
 ---
 
