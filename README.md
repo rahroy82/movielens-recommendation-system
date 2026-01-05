@@ -73,7 +73,7 @@ Also demonstrated:
 ├── presentation/       # Non-technical presentation
 ├── requirements.txt    # Python dependencies
 └── README.md
-
+```
 ## Future Improvements
 - Ranking metrics (Precision@K, Recall@K, NDCG@K)
 - Hybrid recommender using genres/tags
