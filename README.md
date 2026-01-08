@@ -66,7 +66,7 @@ Also demonstrated:
 ## Repository Structure
 
 ```text
-├── notebooks/          # Jupyter notebook analysis
+├── notebook.pdf          # Jupyter notebook analysis
 ├── data/               # MovieLens CSV files
 ├── reports/
 │   └── figures/        # Visualizations
