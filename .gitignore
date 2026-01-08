@@ -13,3 +13,5 @@ Thumbs.db
 # Optional: comment this OUT if Flatiron wants data included
 # data/*.csv
 
+# pptx
+*pptx
