@@ -66,13 +66,16 @@ Also demonstrated:
 ## Repository Structure
 
 ```text
-├── notebook.pdf          # Jupyter notebook analysis
+├── README.md           # project description and overview
 ├── data/               # MovieLens CSV files
-├── reports/
-│   └── figures/        # Visualizations
-├── presentation/       # Non-technical presentation
+│      ├── README.txt   # dataset description
+│      ├──links.csv
+│      ├──movies.csv
+│      ├──ratings.csv
+│      ├──tags.csv 
+├── presentation.pdf       # Non-technical presentation
 ├── requirements.txt    # Python dependencies
-└── README.md
+└── recommender_systems.ipynb # model training notebook
 ```
 
 ---
